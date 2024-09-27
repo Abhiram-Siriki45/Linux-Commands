@@ -153,3 +153,8 @@ How to update the read,write & execute permissions for a file/dir
     	chmod 764 file/dir -- rwx for root, rw for owner, r for others
     	chmod 755 fire/dir -- rwx for root, rw for owner, rw for others
 ---
+
+<br>
+<br>
+
+[![Maintened by - Abhiram-Siriki45](https://img.shields.io/badge/Maintained%20by-Abhiram%20Siriki45-red)](https://github.com/Abhiram-Siriki45)
