@@ -2,7 +2,6 @@
  width="50px"></a> 
  # LINUX COMMANDS🐧
 
-
 ## 👇DIRECTORY
 
     sudo - super user do
