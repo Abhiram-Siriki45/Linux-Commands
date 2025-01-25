@@ -122,7 +122,7 @@ How to update the owner & group for a file/dir -
 
 ---
 
-How to update the read,write & execute permissions for a file/dir
+How to Update the read,write & execute permissions for a file/dir
 
     	How to decode the Read/Write/Execute Permission terminology:
 
